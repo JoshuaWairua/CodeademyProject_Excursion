@@ -1,0 +1,58 @@
+html{
+    font-family: Verdana;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.page_container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 20px
+}
+
+h2{
+    color: white;
+    font-size: 42px;
+    font-weight: 300;       
+}
+
+a{
+    font-size: 16px;
+    color: aquamarine;
+}
+
+#header h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+#main .top{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+#main .top{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#main .middle p{
+    font-size: 21px;
+    color: gray;
+}
+
+#footer p{
+    text-align: right;
+    color: gray;
+}
